@@ -1,6 +1,8 @@
 {
 	"name": "beerlocker",
-	"main": "server.js",
+	"author": "jonathanmtran",
+	"description": "Beer Locker: Building a RESTful API With Node",
+	"main": "server.js",	
 	"dependencies": {
 		"express": "4.2.0",
 		"mongoose": "3.8.9",

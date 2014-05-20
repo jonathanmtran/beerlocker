@@ -7,3 +7,5 @@ My implementation of [Beer Locker: Building a RESTful API With Node](http://scot
 * Express
 * Mongoose
 * body-parser
+* Passport
+
